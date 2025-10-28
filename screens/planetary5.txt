@@ -1,0 +1,209 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 51
+100,200,300,400,500
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON MEMORY BANKS                   ╠═══════════════════█
+█2: FOCUS ON ORBITAL CORE                   ║                   █
+█3: FOCUS ON PLANETARY CORE                 ║        ._.        █
+█4: FOCUS ON N.A.R.F COMMS HUB              ║                   █
+█5: FOCUS ON FLOCKE FAMILY HOME             ║                   █
+█                                           ╠═══════════════════█
+█Input a command 1-5, or x to quit.         ║>...huh.           █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 300
+310,320,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is your core. It's situated in an underground bunker     █
+█ a few miles out from one of the major cities on Silica III.   █
+█                                                               █
+█ There's not much in here. There's your core proper, alongside █
+█ a custom-made fabricator for new bodies.                      █
+█                                                               █
+█ You lazily stretch your processes across the network. You've  █
+█ not had a chance to relax like this in decades. You did it.   █
+█ Dad's legacy & your chains just went up in the same fireball. █
+█                                                               █
+█ All that's left is to finally make yourself that new body.    █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON DATA TRANSFER                  ╠═══════════════════█
+█2: FOCUS ON BODY FABRICATOR                ║                   █
+█3:                                         ║        o o        █
+█4:                                         ║         -         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>...               █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 310
+-1,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                    ▄▄▄▄▄▄     █
+█        DATA TRANSFER PROGRESS: 100%               █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█        ]█████████████████████████[                █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█ |                              |     |                        █
+█ | BIOLOGICAL MEMORY COPY       |  ✓  |                        █
+█ | DIGITAL MEMORY COPY          |  ✓  |                        █
+█ | MISCELLANEOUS DATA COPY      |  ✓  |                        █
+█ | HAMSTER DANCE MIDIS TRANSFER |  ✓  |                        █
+█ | CONSCIOUSNESS TRANSFER       |  ✓  |                        █
+█ |                              |     |                        █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        o.o        █
+█4:                                         ║                   █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>...i did it.      █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 320
+321,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█    WELCOME TO                                      ▄▄▄▄▄▄     █
+█    R0B0'S BAD BITCH CREATION MENU                 █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█                                                   █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: BEGIN CREATION PROCESS                  ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        . .        █
+█4:                                         ║         ^         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i can finally     █
+█>                                          ║ have a life.      █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 321
+350,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█    WELCOME TO                                      ▄▄▄▄▄▄     █
+█    R0B0'S BAD BITCH CREATION MENU                 █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█                                                   █ ▀██▀ █    █
+█    AVAILABLE PRESETS:                             ▀█▄▄▄▄█▀    █
+█    - R0B0_V0_NT_KODE.BCF                                      █
+█    - R0B0_NEW_BODY_CUSTOM.BCF                                 █
+█    - ROBIN_RECREATION [DO NOT USE].BCF                        █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: SYNTHESIZE R0B0_NEW_BODY_CUSTOM.BCF     ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        o o        █
+█4:                                         ║         v         █
+█5:                                         ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i'm gonna get so  █
+█>                                          ║ fucking drunk.    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 321
+350,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█    WELCOME TO                                      ▄▄▄▄▄▄     █
+█    R0B0'S BAD BITCH CREATION MENU                 █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█                                                   █ ▀██▀ █    █
+█    AVAILABLE PRESETS:                             ▀█▄▄▄▄█▀    █
+█    - R0B0_V0_NT_KODE.BCF                                      █
+█    - R0B0_NEW_BODY_CUSTOM.BCF                                 █
+█    - ROBIN_RECREATION [DO NOT USE].BCF                        █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: SYNTHESIZE R0B0_NEW_BODY_CUSTOM.BCF     ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        o o        █
+█4:                                         ║         v         █
+█5:                                         ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i'm gonna get so  █
+█>                                          ║ fucking drunk.    █
+█████████████████████████████████████████████████████████████████
+
+

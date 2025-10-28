@@ -1,0 +1,59 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 500
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ The reporter is now on a large evacuation shuttle. It's far   █
+█ too crowded in there, but just beyond a sea of worried faces, █
+█ a terrible and wonderful sight peeks through the window.      █
+█                                                               █
+█ The split atom. A sea of fire. Energy in its purest form,     █
+█ tearing through plasteel and void. The evacuation shuttle     █
+█ swerves to avoid a large chunk of debris, and its passengers  █
+█ stumble to keep their balance.                                █
+█                                                               █
+█ On the other side of the screen, Sarah stands from her chair, █
+█ making her way to Jackson's side and offering him her hand.   █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        _ _        █
+█4:                                         ║         v         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>that's probably   █
+█>                                          ║ fixable.          █
+█████████████████████████████████████████████████████████████████
+
+

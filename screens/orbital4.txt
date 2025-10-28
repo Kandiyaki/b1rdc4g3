@@ -1,0 +1,149 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 200
+210,-1,230,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is you. You're getting closer to your target every       █
+█ second. Not much of you is left inside here, but the parts    █
+█ that are have the same goal as the ones that aren't.          █
+█                                                               █
+█ The connection's getting spotty now. Your core is emitting    █
+█ so many charged particles, each one like a bullet trying to   █
+█ rip the electrons out of your copper veins, and every single  █
+█ operation has a higher chance of failure.                     █
+█                                                               █
+█ Not like there's much left to do here, anyway.                █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON FLIGHT CONTROLS                ╠═══════════════════█
+█2: [ERROR: PLANETARY SCANNERS OUT OF RANGE]║                   █
+█3: FOCUS ON EMERGENCY REACTOR SYSTEM       ║        \ /        █
+█4:                                         ║        *v*        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>best ride of my   █
+█>                                          ║ life.             █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 210
+-1,-1,-1,-1,200
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█    SILICA 3                                                   █
+█      ████                                                     █
+█     ██████                                                    █
+█      ████              ____                                   █
+█                       /NARF\                                  █
+█                       \_██ █ YOU                              █
+█                         ██ /                                  █
+█                         __/                                   █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        _ _        █
+█4:                                         ║         v         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>people wish i was █
+█>                                          ║ this close to 'em.█
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 230
+231,-1,-1,-1,200
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ You turn your focus to your emergency reactor. It's never     █
+█ been turned on - it's there in case your solar arrays are     █
+█ damaged and you need long-term power while waiting for repair █
+█ teams to arrive. Now, it's for the opposite of repair.        █
+█                                                               █
+█ The connection to you creeping its way through your plasteel  █
+█ bones. Not long now until it blows.                           █
+█                                                               █
+█ Good.                                                         █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON REACTOR CONTROLS               ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        -v-        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>my main goal is   █
+█>                                          ║ to blow up.       █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 231
+-1,-1,-1,-1,200
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█  R0B0 REACTOR CONTROLS                    ███████████████████ █
+█                                            █  o o   o  o  o█  █
+█    STATUS:  DANGER                          █    o o    o █   █
+█                                ██            █ ██   o ██ █    █
+█  TEMPERATURE:  CRITICAL        ██           █ o ██   ██   █   █
+█                                ██           █  o o █   o  █   █
+█    REMAINING RUNTIME:          ██           █        o   o█   █
+█    0Y 00D 00H 01M 23S                        █  o o█    o█    █
+█                                ██           █ o   ███    o█   █
+█                                            █   o  o  o o   █  █
+█                                           ███████████████████ █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        0v0        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>AND THEN ACT LIKE █
+█>                                          ║ I DONT KNOW NOBODY█
+█████████████████████████████████████████████████████████████████
+
+

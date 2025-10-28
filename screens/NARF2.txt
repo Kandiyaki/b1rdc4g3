@@ -1,0 +1,59 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 400
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is the NARF comms hub. They're responsible for making    █
+█ sure the facility's internal communications stay running, and █
+█ very little else.                                             █
+█                                                               █
+█ In the corner of the room, a terminal has begun to beep. The  █
+█ short, spindly Thaven woman stationed at the terminal doesn't █
+█ seem to notice - probably because she's dead asleep, lightly  █
+█ snoring into a magazine covering her face.                    █
+█                                                               █
+█ After a few minutes, annoyed groans begin to permeate the     █
+█ room. Someone begins walking over to the terminal.            █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        =w=        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>no time for naps, █
+█>                                          ║ sweetheart.       █
+█████████████████████████████████████████████████████████████████
+
+

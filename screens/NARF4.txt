@@ -1,0 +1,59 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 400
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ The comms room is empty. Alarms and music fight for dominance █
+█ over the room's soundsphere. There's a warning on every       █
+█ screen.                                                       █
+█                                                               █
+█ Personal belongings have been left behind. A handbag, a coat, █
+█ a family photo, all abandoned in the panicked rush of the     █
+█ evacuation procedures.                                        █
+█                                                               █
+█ Sucks for them.                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        o.o        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>where'd everybody █
+█>                                          ║ go? bingo?        █
+█████████████████████████████████████████████████████████████████
+
+

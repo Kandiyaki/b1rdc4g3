@@ -1,0 +1,359 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 100
+110,120,130,140,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ A few files are available. You've emptied your memory banks   █
+█ of all but the essentials. Can't have anything slowing you    █
+█ down now.                                                     █
+█                                                               █
+█ Your plan's written down, just in case you somehow managed to █
+█ forget the thing you've been dreaming about for decades. You  █
+█ also compiled some related reports.                           █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: VIEW DAPLAN.NTF                         ╠═══════════════════█
+█2: VIEW FAMILYTREE.NTF                     ║                   █
+█3: VIEW INCIDENTREPORT.AUD                 ║       v   v       █
+█4: VIEW HISTORYOFNARF.NTF                  ║         ^         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i should go over  █
+█>                                          ║ everything again. █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 110
+111,-1,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ R0B0'S SUPER AWESOME AND COOL PLAN TO BREAK OUT OF NT CONTROL █
+█ AND FINALLY GET REVENGE ON DAD AND DESTROY HIS LEGACY AND     █
+█ NEVER HAVE TO THINK ABOUT HIM AGAIN                           █
+█                                                               █
+█ STEP 1: (already done!)                                       █
+█ Create a network of shell companies on Silica III, who will   █
+█ facilitate the constructions of a new core, outside NT's      █
+█ sphere of influence.                                          █
+█                                                               █
+█ STEP 2:                                                       █
+█ Download yourself to that core. While the transfer happens,   █
+█ complete the following steps:                                 █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        o o        █
+█5: RETURN                                  ║         v         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>check this out,   █
+█>                                          ║ you old bastard.  █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 111
+112,110,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ STEP 3:                                                       █
+█ Set orbital core on a flight path towards the NARF research   █
+█ station.                                                      █
+█                                                               █
+█ STEP 4:                                                       █
+█ Begin emergency nuclear reactor core overload.                █
+█                                                               █
+█ STEP 5:                                                       █
+█ Send emergency evac signal to NARF research station.          █
+█ They're just bystanders.                                      █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        o o        █
+█5: RETURN                                  ║         v         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>check this out,   █
+█>                                          ║ you old bastard.  █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 112
+-1,111,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ STEP 6:                                                       █
+█ Finalize core transfer.                                       █
+█                                                               █
+█ STEP 7:                                                       █
+█ Watch the fireworks.                                          █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        o o        █
+█5: RETURN                                  ║         v         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>check this out,   █
+█>                                          ║ you old bastard.  █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 120
+121,-1,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ BURNS FAMILY TREE [DOWNLOADED YESTERDAY, 9/19/XX25]           █
+█                                                               █
+█    STEVEN BURNS-|-LILLIE OHMES                                █
+█     XV46-XW03   |  XV50-XW59                                  █
+█               |---|                                           █
+█     ROBIN BURNS   |                                           █
+█      XV86-XW03    |                                           █
+█                   |                                           █
+█                   ELLIE BURNS-|-AARON FLOCKE                  █
+█                    XV92-XX13  |  XW00-XX01                    █
+█                             |---|                             █
+█                             |   |                             █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2:                                         ║      ___ ___      █
+█3:                                         ║        O   O      █
+█4:                                         ║         |         █
+█5: RETURN                                  ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>"Robin Burns".    █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 121
+-1,120,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                             |  |                              █
+█   ASHLEY GREEN-|-SULLY FLOCKE  ROBIN FLOCKE---RILEY CABBEL    █
+█     XW42-      |  XW44-         XW40-          XW42-          █
+█                |                                              █
+█          JACKSON FLOCKE-|-SARAH DANE                          █
+█            XW85-        |  XW75-                              █
+█                      |-----|                                  █
+█            SIMON FLOCKE   AVA FLOCKE                          █
+█             XX19-          XX13-                              █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2: PREV PAGE                               ║      ___ ___      █
+█3:                                         ║        .   .      █
+█4:                                         ║         |         █
+█5: RETURN                                  ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>Been a while since█
+█>                                          ║ I heard that name.█
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 130
+131,-1,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ DATE: 8/22/XW03                                               █
+█ REPORTING OFFICER: LT. JAMEY DOKES                            █
+█                                                               █
+█ TRANSCRIPT:                                                   █
+█ Ok, so. Dispatch came in at around 7:30 PM last night. This   █
+█ lady's on the phone, just... Completely in shock. Can barely  █
+█ get words out between the sobs. I head out to the location,   █
+█ get dispatch to send an ambulance too just in case, right?    █
+█                                                               █
+█ I get there. Biggest house I've seen in a while. Same lady,   █
+█ says her name is Lillie, meets me at the door and just...     █
+█ Damn near pushes me into the basement. So I open the door,    █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        . .        █
+█5: RETURN                                  ║         -         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>...               █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 131
+132,130,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ and the first thing I notice is that the air's thin in there. █
+█ Like bein' up on a mountain. Next thing I see is the corpse.  █
+█ Believe you guys ID'd him as Steven Burns? Anyway, he's blue  █
+█ in the face, clearly suffocated to death at his work desk.    █
+█                                                               █
+█ Then his fuckin' computer talks to me. Calls itself Robin,    █
+█ seemed pissed as all hell. Says to look in the closet. I do,  █
+█ and there's another corpse. Girl, no older than 18, tons of   █
+█ electrical shock marks on her head. Strapped into some device █
+█ that looks straight out of a goddamn horror movie.            █
+█                                                               █
+█ Computer talks to me again. Says that the body belongs to it. █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║                   █
+█4:                                         ║        _ _        █
+█5: RETURN                                  ║         -         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>...               █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 132
+-1,131,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ Apparently, Steven over there's some kind of big tech mogul,  █
+█ and the computer's his latest creation: complete conversion   █
+█ of a biological mind to digital form.                         █
+█                                                               █
+█ Man turned his own goddamn daughter into a computer. Didn't   █
+█ even get the girl's permission. Poor robin - er, RB00, as the █
+█ computer was labeled - just snapped. Sucked all the air outta █
+█ the room, watched the man die, and I can't say I blame her. I █
+█ would do the same damn thing if my folks did that to me.      █
+█                                                               █
+█ Anyway, apparently the guy was with NT, so they're taking     █
+█ over the investigation... Hopefully they treat Robin well.    █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║                   █
+█4:                                         ║        -_-        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>I appreciate the  █
+█>                                          ║ concern, Jamey.   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 140
+141,-1,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ The NARF - Nanotrasen Advanced Research Facility - was built  █
+█ in late XW00, under the guidance of the head of the NARD,     █
+█ Steven Burns. It maintains an orbit around Silica I, and is   █
+█ over 1 Million cubic meters in size.                          █
+█                                                               █
+█ After Mr. Burns' death in XW03, the NARD was disbanded and    █
+█ split into the several dozen divisions that the NARF now      █
+█ houses.                                                       █
+█                                                               █
+█ NARF researchers are responsible for some of the most         █
+█ important research of our time - from the invention of the    █
+█ pulse rifle to the perfection of handheld Bluespace portal    █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        -v-        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>Heh. NARD.        █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 141
+-1,140,-1,-1,100
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ devices.                                                      █
+█                                                               █
+█ The NARF is Nanotrasen's first stop for any newly discovered  █
+█ technologies, turning theory into reality and applying it to  █
+█ transportation, computation, and weaponry.                    █
+█                                                               █
+█ Schedule a tour today at NARF.NT/TOURS!                       █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║                   █
+█4:                                         ║        ^_^        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>Book your tour    █
+█>                                          ║ before it's gone~!█
+█████████████████████████████████████████████████████████████████
+
+

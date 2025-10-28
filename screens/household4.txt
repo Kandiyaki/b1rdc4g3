@@ -1,0 +1,59 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 500
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ The TV is now displaying a live broadcast from the NARF. The  █
+█ reporter stands, a rush of people moving behind her as she    █
+█ explains the reason behind the sudden evacuation - a nuclear  █
+█ bomb threat was sent to the NARF comms hub just before the    █
+█ evacuation signal went off on its own.                        █
+█                                                               █
+█ Sarah puts down her knitting project as Jackson sits up and   █
+█ quietly ushers the kids out of the room, not taking his eyes  █
+█ off the screen for even an instant. Simon protests, but Ava,  █
+█ seemingly noticing her father's concern, quietly reassures    █
+█ him that they can just continue playing in their bedroom.     █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        . .        █
+█4:                                         ║         -         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>ohh nine eleven...█
+█>                                          ║ ohhh... ohhhhhh ni█
+█████████████████████████████████████████████████████████████████
+
+

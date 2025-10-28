@@ -1,0 +1,89 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 300
+310,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is your new core. It's situated in an underground bunker █
+█ a few miles out from one of the major cities on Silica III.   █
+█                                                               █
+█ There's not much in here. There's your core proper, alongside █
+█ a custom-made fabricator for new bodies.                      █
+█                                                               █
+█ There's a low hum echoing through the complex. Fans are       █
+█ spinning, electrons are flowing, filaments burn with an       █
+█ illuminating glow.                                            █
+█                                                               █
+█ Can't stop now.                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON DATA TRANSFER                  ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        -^-        █
+█4:                                         ║                   █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>let's see how     █
+█>                                          ║ we're doing...    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 310
+-1,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                    ▄▄▄▄▄▄     █
+█        DATA TRANSFER PROGRESS: 37%                █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█        ]█████████░░░░░░░░░░░░░░░░[                █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█ |                              |     |                        █
+█ | BIOLOGICAL MEMORY COPY       |  ✓  |                        █
+█ | DIGITAL MEMORY COPY          | 83% |                        █
+█ | MISCELLANEOUS DATA COPY      |  0% |                        █
+█ | HAMSTER DANCE MIDIS TRANSFER |  0% |                        █
+█ | CONSCIOUSNESS TRANSFER       |  0% |                        █
+█ |                              |     |                        █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        o o        █
+█5: RETURN                                  ║         ^         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>so far so good... █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+

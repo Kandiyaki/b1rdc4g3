@@ -1,0 +1,179 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 300
+310,320,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is your core. It's situated in an underground bunker     █
+█ a few miles out from one of the major cities on Silica III.   █
+█                                                               █
+█ There's not much in here. There's your core proper, alongside █
+█ a custom-made fabricator for new bodies.                      █
+█                                                               █
+█ It doesn't feel like you're looking through a window anymore. █
+█ You're on the other side now. This core is you. You are this  █
+█ core. Just need to pull your last limbs through.              █
+█                                                               █
+█ Almost done.                                                  █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON DATA TRANSFER                  ╠═══════════════════█
+█2: FOCUS ON BODY FABRICATOR                ║                   █
+█3:                                         ║        -^-        █
+█4:                                         ║                   █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>let's see how     █
+█>                                          ║ we're doing...    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 310
+311,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                    ▄▄▄▄▄▄     █
+█        DATA TRANSFER PROGRESS: 99%                █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█        ]█████████████████████████[                █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█ |                              |     |                        █
+█ | BIOLOGICAL MEMORY COPY       |  ✓  |                        █
+█ | DIGITAL MEMORY COPY          |  ✓  |                        █
+█ | MISCELLANEOUS DATA COPY      |  ✓  |                        █
+█ | HAMSTER DANCE MIDIS TRANSFER |  ✓  |                        █
+█ | CONSCIOUSNESS TRANSFER       | 97% |                        █
+█ |                              |     |                        █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FINALIZE TRANSFER                       ╠═══════════════════█
+█2:                                         ║        / \        █
+█3:                                         ║        - -        █
+█4:                                         ║         ^         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>oh, that's why i  █
+█>                                          ║ feel woozy.       █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 311
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                    ▄▄▄▄▄▄     █
+█        DATA TRANSFER PROGRESS: 100%               █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█        ]█████████████████████████[                █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█ |                              |     |                        █
+█ | BIOLOGICAL MEMORY COPY       |  ✓  |                        █
+█ | DIGITAL MEMORY COPY          |  ✓  |                        █
+█ | MISCELLANEOUS DATA COPY      |  ✓  |                        █
+█ | HAMSTER DANCE MIDIS TRANSFER |  ✓  |                        █
+█ | CONSCIOUSNESS TRANSFER       |  ✓  |                        █
+█ |                              |     |                        █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        . .        █
+█4:                                         ║         v         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>aaaaaaaaand done. █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 320
+321,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█    WELCOME TO                                      ▄▄▄▄▄▄     █
+█    R0B0'S BAD BITCH CREATION MENU                 █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█                                                   █ ▀██▀ █    █
+█                                                   ▀█▄▄▄▄█▀    █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: BEGIN CREATION PROCESS                  ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        ^ ^        █
+█4:                                         ║         v         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i'm gonna max out █
+█>                                          ║ the boobs slider. █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 321
+-1,-1,-1,-1,300
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█    WELCOME TO                                      ▄▄▄▄▄▄     █
+█    R0B0'S BAD BITCH CREATION MENU                 █▀    ▀█    █
+█                                                   █ ▀  ▀ █    █
+█        ╔═════════════════════╗                    █ ▀██▀ █    █
+█        ║        ERROR        ║                    ▀█▄▄▄▄█▀    █
+█        ║                     ║                                █
+█        ║ INSUFFICIENT MEMORY ║                                █
+█        ╚═════════════════════╝                                █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        _ _        █
+█4:                                         ║         ^         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>ughhhhhh. soon.   █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+

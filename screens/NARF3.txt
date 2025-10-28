@@ -1,0 +1,119 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 400
+401,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is the NARF comms hub. They're responsible for making    █
+█ sure the facility's internal communications stay running, and █
+█ very little else.                                             █
+█                                                               █
+█ The Thaven woman has been awakened from her slumber by way of █
+█ an exasperated shoulder-shake from her coworker. Groggily,    █
+█ she rubs her eyes and looks at her screen - immediately, her  █
+█ expression shifts to one of concern.                          █
+█                                                               █
+█ The coworker stands over her shoulder, similarly concerned,   █
+█ and the two begin discussing what to do about the alert.      █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: ACTIVATE NARF BACKDOOR PROTOCOL         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        =w=        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>poor clueless     █
+█>                                          ║ fleshies.         █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 401
+402,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ Suddenly, lights blaze all across the comms room. Frantic     █
+█ music echoes throughout the NARF's thousands of sterile halls.█
+█ Every single screen in the complex displays the same message: █
+█                                                               █
+█               THIS PAGE HAS BEEN HACKED LMAO                  █
+█    YOU HAVE [08m, 24s] UNTIL THIS PLACE FUCKING EXPLODES      █
+█                          FUCK YOU DAD                         █
+█                         LOVE, ROBIN <3                        █
+█                                                               █
+█ The comms hub goes quiet for a few seconds. Everyone inside   █
+█ is frozen in shock. What the hell do they do about this?      █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: ACTIVATE EMERGENCY EVAC SIGNALS         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        O_O        █
+█5:                                         ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>here's an idea.   █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 402
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ You send a certain packet, and suddenly the evac alarms begin █
+█ blaring. You made sure to adjust the alarms' timing so they'd █
+█ be on-beat with the music. May as well go all in.             █
+█                                                               █
+█ The comms specialists take another moment to compose their    █
+█ thoughts, then quickly begin reciting the movements they've   █
+█ learned in their evacuation drills.                           █
+█                                                               █
+█ Pixelated smiley-faces mock their fear from every direction.  █
+█                                                               █
+█ They're terrified.                                            █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        OvO        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>run.              █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+

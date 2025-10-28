@@ -1,0 +1,179 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 200
+210,220,230,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is you. You're in low orbit over Silica III, and you've  █
+█ been there for decades now. Today, that all changes. A tingle █
+█ runs up your datapath.                                        █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON FLIGHT CONTROLS                ╠═══════════════════█
+█2: FOCUS ON PLANETARY SCANNERS             ║                   █
+█3: FOCUS ON EMERGENCY REACTOR SYSTEM       ║        \ /        █
+█4:                                         ║        *^*        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>home sweet home.  █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 210
+211,-1,-1,-1,200
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ Here, you have access to the electric thrusters that control  █
+█ your core's movement. They've barely been used since you were █
+█ first sent up into orbit. Today, you'll give them one last    █
+█ chance to stretch their legs.                                 █
+█                                                               █
+█ The flight controls stand at the ready.                       █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: ENGAGE FLIGHT CONTROLS                  ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        ^ ^        █
+█4:                                         ║         -         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>road triiiiiip!!! █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 211
+212,-1,-1,-1,210
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ Calling them "Controls" might be misleading. There's no bank  █
+█ of buttons and dials, no fun little gadgets or indicators.    █
+█                                                               █
+█ Rather, the flight controls are located at memory offset      █
+█ 0x004004a8. Your system constantly loads instructions from    █
+█ that memory and executes them. For decades, the instructions  █
+█ have been simple: check if you're moving away from stable     █
+█ orbit, and if so, compensate.                                 █
+█                                                               █
+█ You have a better idea.                                       █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: DESIGNATE NEW PATH                      ╠═══════════════════█
+█2:                                         ║        / \        █
+█3:                                         ║        O O        █
+█4:                                         ║         ^         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>can we stop by    █
+█>                                          ║ denny's first?    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 212
+213,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█      _____                                                    █
+█    /      \ YOU                                               █
+█   /        █                                                  █
+█  /          \                                                 █
+█ |  SILICA 3  |                                                █
+█ |    ████    |                                                █
+█  \  ██████  /                                                 █
+█   \  ████  /                                                  █
+█    \      /            NARF                                   █
+█     \____/              ██                                    █
+█                         ██                                    █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:         SPECIFY NEW ORBIT:              ╠═══════════════════█
+█   TARGET: N.A.R.F HEADQUARTERS            ║        _ _        █
+█   PRIORITY: IMMEDIATE                     ║        -v-        █
+█   ORBIT HEIGHT: 0.000000000001 METERS     ║                   █
+█                                           ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>plus or minus a   █
+█>                                          ║ few meters.       █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 213
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█      _____                                                    █
+█    /      \ YOU                                               █
+█   /        █                                 SUCCESS          █
+█  /          \                                                 █
+█ |  SILICA 3  \                       NEW PARAMETERS SPECIFIED █
+█ |    ████     \                                               █
+█  \  ██████     \                                              █
+█   \  ████       \      ____                                   █
+█    \             \    /NARF\                                  █
+█                   \   \_██ |                                  █
+█                    \    ██ /                                  █
+█                     \_____/                                   █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║        / \        █
+█3:                                         ║        - -        █
+█4:                                         ║         v         █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>uh-oh. i think it █
+█>                                          ║ might crash...    █
+█████████████████████████████████████████████████████████████████
+
+

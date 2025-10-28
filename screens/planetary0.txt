@@ -1,0 +1,149 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 300
+310,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ This is your new core. It's situated in an underground bunker █
+█ a few miles out from one of the major cities on Silica III.   █
+█                                                               █
+█ There's not much in here. There's your core proper, alongside █
+█ a custom-made fabricator for new bodies.                      █
+█                                                               █
+█ It's quiet.                                                   █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: FOCUS ON DATA CORE                      ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        ^.^        █
+█4:                                         ║                   █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>iiiiit's moving   █
+█>                                          ║ daaaaaay!         █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 310
+311,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ You focus on the empty AI core in the center of the facility. █
+█ This is your new home. All you have to do is pack your bags.  █
+█                                                               █
+█ You'd take a deep breath if you could.                        █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: BEGIN CORE TRANSFER                     ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║        \ /        █
+█4:                                         ║        o o        █
+█5: RETURN                                  ║         -         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>no turning back   █
+█>                                          ║ after this...     █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 311
+312,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                     UNAUTHORIZED ACTION                       █
+█                                                               █
+█                          ████    ██                           █
+█                          █████   ██                           █
+█                       ██ ██ ███  ██ █                         █
+█                        █ ██  ███ ██ ██                        █
+█                          ██   █████                           █
+█                          ██    ████                           █
+█                                                               █
+█                 PLEASE CONTACT YOUR SILICON                   █
+█                    RESOURCES CARETAKER IF                     █
+█                 YOU BELIEVE THIS IS IN ERROR                  █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█                                           ║                   █
+█     #&%^$%&*#@#SEND PACKET(#%^@?#^%#?#    ║                   █
+█     [0x474554204655434B4544204E455244]    ║        -v-        █
+█                                           ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>authorize this,   █
+█>                                          ║ motherfuckers.    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 312
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                       AUTHORIZED ACTION                       █
+█                         ████████████                          █
+█                       ████        ████                        █
+█                       ██            ██                        █
+█                       ██  ██    ██  ██                        █
+█                       ██            ██                        █
+█                       ██  ████████  ██                        █
+█                       ██    ████    ██                        █
+█                       ████        ████                        █
+█                 PLEASE  ████████████                          █
+█                      S U C         K                          █
+█                        I    T     S I   R                     █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║HAHAHAHAHAHAHAHAHAH█
+█3:                                         ║AHAHAHAHAHAHAHAHAHA█
+█4:                                         ║HAHAHAHAHAHAHAHAHAH█
+█5: RETURN                                  ║AHAHAHAHAHAHAHAHAHA█
+█                                           ╠═══════════════════█
+█Input a command.                           ║>LMAOOOOOOOOOOOOOOO█
+█>                                          ║ OOOOOOOOOOOOOOOOOO█
+█████████████████████████████████████████████████████████████████
+
+

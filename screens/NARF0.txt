@@ -1,0 +1,59 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 400
+-1,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ You've taken the liberty of putting a bit of yourself into    █
+█ the N.A.R.F. security camera system. On your feed, there's a  █
+█ room of about 20 people of various species, each and every    █
+█ one looking bored out of their mind.                          █
+█                                                               █
+█ This is the NARF comms hub. They're responsible for making    █
+█ sure the facility's internal communications stay running, and █
+█ very little else.                                             █
+█                                                               █
+█ A large screen spans one of the room's walls, dotted with an  █
+█ array of indicators. Every single one is green.               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        =v=        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>i better give 'em █
+█>                                          ║ a real good show. █
+█████████████████████████████████████████████████████████████████
+
+

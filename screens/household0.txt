@@ -1,0 +1,89 @@
+ID: 99
+0,-1,-1,-1,-1
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║ R0B0 HI-PERF MODE █
+█1: BACK                                    ╠═══════════════════█
+█                                           ║      \     /      █
+█                                           ║      o\   /o      █
+█                                           ║         |         █
+█                                           ║        ---        █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>PLACEHOLDERRR     █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 500
+501,-1,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ The Flockes are enjoying their Saturday afternoon. Sarah's    █
+█ knitting a small hat, Ava's playing patty-cake with little    █
+█ Simon, and Jackson's laying on the couch, tapping at a PDA.   █
+█ The TV is turned to a news channel droning on about the       █
+█ ongoing trial of Dr. Homestar Runner, who's accused of the    █
+█ murder of 7 Tau Ceti University students. Obviously guilty.   █
+█                                                               █
+█ The living room is lit mostly by sunlight from Silica, that   █
+█ star from which the metal tomb encasing your consciousness    █
+█ draws its solar power. Perhaps you're casting a shadow upon   █
+█ their roof right now. Not that they'd notice.                 █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1: NEXT PAGE                               ╠═══════════════════█
+█2:                                         ║                   █
+█3:                                         ║                   █
+█4:                                         ║        ^ ^        █
+█5: RETURN                                  ║         -         █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>ahhh, what a      █
+█>                                          ║ loving family.    █
+█████████████████████████████████████████████████████████████████
+
+
+
+ID: 501
+-1,500,-1,-1,51
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█ You've been living in their electronics ever since Ava was    █
+█ born. They don't have cameras, but you can tell exactly what  █
+█ goes on through the miniscule bits of signal interference     █
+█ produced by each twitch of their muscles.                     █
+█                                                               █
+█ They don't know you're here, and that's ok. It'd probably     █
+█ just scare them if they knew. You certainly wouldn't want to  █
+█ have a sapient virus watching your every move.                █
+█                                                               █
+█ But, they don't seem to mind how their electronics always     █
+█ seem to magically fix themselves after they break.            █
+█                                                               █
+█═══════════════════════════════════════════╦═══════════════════█
+█AVAILABLE COMMANDS:                        ║R0B0 HI-PERF. MODE █
+█1:                                         ╠═══════════════════█
+█2: PREV PAGE                               ║                   █
+█3:                                         ║                   █
+█4:                                         ║        -_-        █
+█5: RETURN                                  ║                   █
+█                                           ╠═══════════════════█
+█Input a command.                           ║>lucky bastards.   █
+█>                                          ║                   █
+█████████████████████████████████████████████████████████████████
+
+
